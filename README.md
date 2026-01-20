@@ -1,10 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
 This is Satya Narayana, A 3-rd year B.Tech 🖥️ CSE student at Raghu Engineering College.
-<!--
-**Satyanarayana88/Satyanarayana88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
+I am a Computer Science and Engineering (CSE) student with a strong interest in software
+development and problem-solving. I have a good foundation in programming languages such as
+C, Java, and Python, along with basic knowledge of data structures and algorithms, and UI/UX.
+I am eager to learn new technologies, improve my technical skills, and apply my knowledge in
+real-world projects. I am a motivated fresher with a positive attitude, good communication
+skills, and a strong willingness to grow as a software professional.
+
+**Email**: 📧rapetisatyanarayana66@gmail.com  
+**LinkedIn**🔗: https://www.linkedin.com/in/satyanarayana012
+
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
