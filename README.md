@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+This is Satya Narayana, A 3-rd year B.Tech CSE student at Raghu Engineering College.
 <!--
 **Satyanarayana88/Satyanarayana88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
