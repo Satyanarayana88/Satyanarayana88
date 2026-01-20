@@ -10,7 +10,7 @@ I am eager to learn new technologies, improve my technical skills, and apply my 
 real-world projects. I am a motivated fresher with a positive attitude, good communication
 skills, and a strong willingness to grow as a software professional.
 
-**Email**: 📧rapetisatyanarayana66@gmail.com  
+**Email**📧:  rapetisatyanarayana66@gmail.com  
 **LinkedIn**🔗: https://www.linkedin.com/in/satyanarayana012
 
 <!--
