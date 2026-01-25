@@ -13,6 +13,8 @@ I have led technical teams, built assistive technologies, and contributed to pro
 
 Systems & Operating Systems<br>
 Backend & Scalable Software Development<br>
+
+
 🛠️ Technical Skills<br>
 Programming Languages<br>
 Java<br>
@@ -25,6 +27,8 @@ OOPS, DSA<br>
 Databases<br>
 Operating Systems<br>
 Computer Networks<br>
+
+
 🧩 Projects<br>
 Online Voting System(Team Lead)<br>
   HTML.CSS.JS.PHP
