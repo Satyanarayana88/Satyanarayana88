@@ -1,5 +1,5 @@
 👋 Hi, I'm Satyanarayana Rapeti
-🎓 Computer Science Engineering Student, 3rd year 💻 Software Developer  
+🎓 Computer Science Engineering Student, 4th year 💻 Software Developer  
 📍 India
 
 📧 Email: rapetisatyanarayana66@gmail.com <br>
@@ -30,6 +30,7 @@ Computer Networks<br>
 
 
 🧩 Projects<br>
-Online Voting System(Team Lead)<br>
+1. Online Voting System(Team Lead)<br>
   HTML.CSS.JS.PHP
+2. snipper
 
